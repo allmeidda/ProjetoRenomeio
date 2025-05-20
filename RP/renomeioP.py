@@ -121,5 +121,5 @@ def processar_pasta(pasta):
                 renomear_arquivo(caminho_arquivo)
 
 # Caminho da pasta com os arquivos
-pasta_alvo = r"C:\Users\Gabriel Almeida\OneDrive\Documentos\Projetos Python\RP\renomeio"
+pasta_alvo = r"C:Caminho\Do\Seu\Arquivo"
 processar_pasta(pasta_alvo)
